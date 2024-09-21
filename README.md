@@ -18,3 +18,10 @@ We will also highlight our store location, contact information, and social media
 Our website will also offer a wide range of bikes, parts, and accessories for both beginners and enthusiasts, including options for custom orders. 
 Additionally, to help users make informed decisions based on other customers' experiences our website will a customer reviews and ratings.
  This comprehensive approach will make our bike shop a go-to destination for cyclists and those who wants to become one.
+
+
+Technologies Required:
+
+The front end of the website will be developed with HTML, CSS, Javascript, and React (for certain dynamic features). Content will be managed through WordPress in order to provide an accessible blogging platform for cycling tips & articles. The website will have payment processing through Square, and will use a MySQL database to manage our inventory.
+Google Maps will also be integrated into the website to aid in displaying store locations and local bike routes.
+The website will incorperate customer reviews, social media integration, and a bike finder tool to enhance user engagement.
