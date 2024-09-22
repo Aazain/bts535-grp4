@@ -13,11 +13,11 @@ while also offering any bikes/parts that biking veterans may need.
 
 Propose a solution:
 
-To make in easier and more accessible for everyone to find the right bike, we propose a user-friendly website, that will contain informative content on bike categories and their purposes, a bike finder tool, a blog with cycling tips for the beginners and experts, and local routes, and information about our services. 
+To make it easier and more accessible for everyone to find the right bike, we propose a user-friendly website, that will contain informative content on bike categories and their purposes, a bike finder tool, a blog with cycling tips for the beginners and experts, and information about our services. 
 We will also highlight our store location, contact information, and social media links to encourage customer engagement.
 Our website will also offer a wide range of bikes, parts, and accessories for both beginners and enthusiasts, including options for custom orders. 
-Additionally, to help users make informed decisions based on other customers' experiences our website will a customer reviews and ratings.
- This comprehensive approach will make our bike shop a go-to destination for cyclists and those who wants to become one.
+Additionally, to help users make informed choices based on other customers' experiences, our website will offer a customer reviews and ratings section.
+This comprehensive approach will make our bike shop a go-to destination for cyclists and those who wants to become one.
 
 
 Technologies Required:
