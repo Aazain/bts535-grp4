@@ -22,6 +22,7 @@ Additionally, to help users make informed decisions based on other customers' ex
 
 Technologies Required:
 
-The front end of the website will be developed with HTML, CSS, Javascript, and React (for certain dynamic features). Content will be managed through WordPress in order to provide an accessible blogging platform for cycling tips & articles. The website will have payment processing through Square, and will use a MySQL database to manage our inventory.
+The front end of the website will be developed with HTML, CSS, JavaScript, and React (for certain dynamic features). Content will be managed through WordPress in order to provide an accessible blogging platform for cycling tips & articles.
+The website will have payment processing through Square and will use a MySQL database to manage our inventory.
 Google Maps will also be integrated into the website to aid in displaying store locations and local bike routes.
-The website will incorperate customer reviews, social media integration, and a bike finder tool to enhance user engagement.
+The website will incorporate customer reviews, social media integration, and a bike finder tool to enhance user engagement.
