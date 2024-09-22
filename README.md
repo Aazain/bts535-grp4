@@ -21,8 +21,14 @@ This comprehensive approach will make our bike shop a go-to destination for cycl
 
 
 Technologies Required:
-
+1.
 The front end of the website will be developed with HTML, CSS, JavaScript, and React (for certain dynamic features). Content will be managed through WordPress in order to provide an accessible blogging platform for cycling tips & articles.
 The website will have payment processing through Square and will use a MySQL database to manage our inventory.
 Google Maps will also be integrated into the website to aid in displaying store locations and local bike routes.
 The website will incorporate customer reviews, social media integration, and a bike finder tool to enhance user engagement.
+2.
+The website's front end will be developed using HTML, CSS, JavaScript, and React, ensuring a responsive and interactive user experience. 
+For managing the blog content, we will integrate WordPress to provide an easy platform for updating cycling tips and articles.
+The back end will use Node.js and Express.js for handling server-side operations. MySQL will manage product inventory, customer reviews, and order information.
+
+Square will handle secure payment processing for online purchases. Google Maps API will be used to display store locations and local bike routes, enhancing customer convenience. The website will be hosted on a Linux-based VPS (Virtual Private Server) for flexibility and control over hosting.
