@@ -11,3 +11,6 @@ _Project Managers (and sponsor): Aazain Rafiq, Olivia Christy Kuitchoua Kewang, 
 
 ## 2.Overview
 The bike shop plans to enhance customer interaction by providing an online platform where users can easily navigate product categories, place orders, and get real-time support through a chat feature.
+
+### 2.1 Objective
+The primary objective is to have a fully functional website live by the end of the quarter, featuring real-time chat, order tracking, a cycling tips blog, and other tools to assist both beginner and experienced cyclists in their shopping experience.
