@@ -47,4 +47,27 @@ The primary objective is to have a fully functional website live by the end of t
 | REQ05  | Customer reviews feature developed              | DEL04  | Reviews and ratings section operational            | Developer Team       | pending  |
 
 
+## 4.Deliverables
+1. Website up and running from the server 
+2. Website operational with static pages  
+3. Interactive bike finder tool available 
+4. Categories for bike offerings available 
+5. Reviews and ratings section operational
+
+### 4.1 Gantt Chart
+
+### Gantt Chart
+
+| Task                     | Oct | Nov | Dec | Jan | Feb |
+|--------------------------|-----|-----|-----|-----|-----|
+| Planning                 | ####|     |     |     |     |
+| Front-End Development    |     | ####| ####|     |     |
+| Back-End Development     |     |     | ####|     |     |
+| Bike Finder Development  |     |     |     | ####|     |
+| Category Development     |     |     |     | ####|     |
+| Customer Review Feature  |     |     |     |     | ####|
+| Testing                  |     |     |     |     | ####|
+| Launch                   |     |     |     |     | ####|
+
+
 
