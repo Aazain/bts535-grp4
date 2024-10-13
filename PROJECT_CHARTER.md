@@ -24,15 +24,27 @@ The primary objective is to have a fully functional website live by the end of t
 5. Design and develop a customer reviews and ratings feature for product feedback
 
 ### 3.1 Work Breakdown Structure
-|     Task      |    Sub Task   |    Owner    |
-| ------------- | ------------- | -------------
-| Planning      | Finalize technologies required | Project Manager |
-| Front-End Development | Design layout, and implement design | Front-End Developer |
-| Back-End Development | Setup database and server | Back-End Developer |
-| Bike Finder Development | Design and develop tool | Developers |
-| Customer Review Feature | Develop rating and review submission feature| Developers |
-| Testing | Conduct testing | QA Team|
-| Launch | Finalize details and marketing | Project Manager, Marketing Team |
+| ID  | Task                     | Sub Task                                     | Owner                           |
+|-----|--------------------------|--------------------------------------------- |---------------------------------|
+| 1   | Planning                 | Finalize technologies required               | Project Manager                 |
+| 2   | Front-End Development    | Design layout and implement design           | Front-End Developer             |
+| 3   | Back-End Development     | Set up database and server                   | Back-End Developer              |
+| 4   | Bike Finder Development  | Design and develop bike finder tool          | Development Team                |
+| 4   | Category Development     | Design and develop categories for bikes      | Development Team                |
+| 5   | Customer Review Feature  | Develop rating and review submission feature | Development Team                |
+| 6   | Testing                  | Conduct testing                              | QA Team                         |
+| 7   | Launch                   | Finalize details and marketing               | Project Manager, Marketing Team |
+
+
 
 ### 3.2 Requirements Traceability Matrix
+| Req ID | Requirement                                     | Del ID | Deliverable                                        | Owner                | Status   |
+|--------|-------------------------------------------------|--------|----------------------------------------------------|----------------------|----------|
+| REQ01  | Hosting defined and set up                      | DEL01  | Website up and running from the server             | Project Manager      | done     |
+| REQ02  | Server up and running                           | DEL01  | Website operational with static pages              | Developer Team       | testing  |
+| REQ03  | Front-end design completed                      | DEL02  | Interactive bike finder tool available             | Front-End Developer  | pending  |
+| REQ04  | Category development completed                  | DEL03  | Categories for bike offerings available            | Front-End Developer  | pending  |
+| REQ05  | Customer reviews feature developed              | DEL04  | Reviews and ratings section operational            | Developer Team       | pending  |
+
+
 
