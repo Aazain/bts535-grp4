@@ -14,3 +14,12 @@ The bike shop plans to enhance customer interaction by providing an online platf
 
 ### 2.1 Objective
 The primary objective is to have a fully functional website live by the end of the quarter, featuring real-time chat, order tracking, a cycling tips blog, and other tools to assist both beginner and experienced cyclists in their shopping experience.
+
+## 3. Milestones
+
+1. Technology stack for front-end, back-end, database, and hosting/domain defined.
+2. Website back-end set up, and front-end design completed with sample static pages tested.
+3. Real-time chat feature developed and tested.
+4. Order tracking and product browsing functionality implemented and tested.
+5. Review section and blog integrated into the website and fully tested.
+
