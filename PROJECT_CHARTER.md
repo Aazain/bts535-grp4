@@ -37,6 +37,9 @@ The primary objective is to have a fully functional website live by the end of t
 | 7   | Launch                   | Finalize details and marketing               | Project Manager, Marketing Team |
 
 
+![work breakdown structure](https://github.com/user-attachments/assets/92b7fea7-6c19-4dec-93c6-fc31af40ed90)
+
+
 
 ### 3.2 Requirements Traceability Matrix
 | Req ID | Requirement                                     | Del ID | Deliverable                                        | Owner                | Status   |
